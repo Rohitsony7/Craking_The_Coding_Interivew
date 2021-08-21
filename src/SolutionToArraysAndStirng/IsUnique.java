@@ -31,3 +31,5 @@ public class IsUnique {
     }
 
 }
+
+// other way, sort both of the array, check the size (return false if !equal), s1.equals(s2)
